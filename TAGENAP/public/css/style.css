@@ -1,0 +1,53 @@
+/*svg{
+    margin:100px;
+    margin-left: 0;
+    margin-right: 0;
+    height: 200px;
+}*/
+img{
+    width: 140px;
+    height: 140px;
+    text-align: center;
+}
+div{
+    background-color: turquoise;
+}
+#d1{
+    width: auto;
+    height: auto;
+    background-color: grey;
+    text-align: center;
+
+}
+#d2{
+    width: 1100;
+    height: 200px;
+    background-color: grey;
+    opacity: 100%;
+}
+#div3{
+    margin-top: 50px;
+}
+p#p1{
+    margin-left: 10px;
+}
+a {
+   color: #11d476;
+}
+.carousel-item{
+    background-color: grey;
+    height: 1600px;
+    width: 600px
+}
+div .d-block .w-100{
+    height: 600px;
+}
+.carousel-caption{
+    background-color: grey;
+}
+#a1{
+    
+}
+button #btn{
+    background-color: lightgreen;
+}

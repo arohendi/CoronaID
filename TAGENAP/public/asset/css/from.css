@@ -1,0 +1,55 @@
+#b1{
+	background-color: turquoise;
+}
+.form-control{
+
+}
+#from{
+	width: 50px;
+}
+#from2{
+	margin-right: : 300px;
+}
+#f1{
+width: 150px;
+}
+label{
+	margin-right: 300px;
+	width: 300px;
+}
+form{
+	position: absolute;
+	background-color: lightgreen;
+	margin-left: 400px;
+	width: 500px;
+	border-radius: 10px
+}
+table{
+	margin-left: 110px;
+	margin-top: 50px;
+}
+input{
+	background-color: transparent;
+	width: 150px;
+	text-align: center;
+}
+#t1{
+background-color: salmon;
+}
+#t2{
+background-color: orange;
+}
+#t3{
+background-color: lightblue;
+}
+#t4{
+background-color: grey;
+}
+#t5{
+background-color: lime;
+}
+#t6{
+border-radius: 6px;
+margin-left: 300px;
+margin-bottom: 50px;
+}

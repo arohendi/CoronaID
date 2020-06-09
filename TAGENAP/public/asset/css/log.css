@@ -1,0 +1,11 @@
+.card-header{
+	background-color: turquoise;
+}.card-body{
+	background-color: lightblue;
+}
+.card{
+	background-color: lightgreen;
+}
+body{
+	background-color: turquoise;
+}
